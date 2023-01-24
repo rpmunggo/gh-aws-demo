@@ -9,7 +9,7 @@ function App() {
         <h1>Hi blog welcome to my guys!</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          This is just a basic react app for the demo.
+          This is a test
         </p>
         <a
           className="App-link"
